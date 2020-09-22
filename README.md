@@ -12,3 +12,30 @@ This is my solution branch
 
 - [makefile tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 - [tutorial files](my_code/02ex/tutorial/hellomake.c)
+
+[03ex](my_code/03ex/main.c)
+
+- External Research
+
+## Escape codes
+
+| code | meaning         |
+| ---- | --------------- |
+| \a   | audible alert   |
+| \b   | backspace       |
+| \f   | form feed       |
+| \n   | newline         |
+| \r   | carriage return |
+| \t   | tab             |
+| \v   | vertical tab    |
+
+## Format Specifiers
+
+| %   | meaning                        |
+| --- | ------------------------------ |
+| %c  | character                      |
+| %d  | decimal integer(base10) number |
+| %e  | exponential floating-point     |
+| %f  | floating-point number          |
+| %i  | integer number                 |
+| %o  | octal(base8) number            |
