@@ -1,18 +1,18 @@
-Learn C The Hard Way
+This is my Branch
 =======
 
 Exercise 0
 ----
 
-Installing Software
+Figuring Shit Out
 
 
 
 The Plan
 ========
 
-* Install software on your system.
-* Test that it works right.
+* Try to figure out how C works
+* I'll trying finishing this fucking course!
 
 
 
@@ -26,6 +26,14 @@ On Debian/Ubuntu use:
 On RedHat/CentOS:
 
     $ sudo yum groupinstall development-tools
+
+I wonder how the up/down arrows work? 
+
+
+I figured it out!!!
+====
+    Do you remember?
+How did I do the above?
 
 
 
@@ -42,6 +50,8 @@ OSX Install
 ====
 
 Install [XCode](https://developer.apple.com/xcode/), this will take a while.
+
+Use XCode rich asshole!
 
 
 
@@ -68,6 +78,8 @@ Install [MinGW](http://www.mingw.org/)
 
 Use [VirtualBox](https://www.virtualbox.org/wiki/Downloads) to run Linux.
 
+***trying to code with Windows***
+
 
 
 Text Editors
@@ -77,8 +89,13 @@ You should already have one.
 Just don't use an IDE. They aren't very helpful.
 
 
-
 End of Lecture 0
 ====
 
 
+What about code?
+====
+
+```c
+#include <yourass>
+```
