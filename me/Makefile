@@ -2,8 +2,7 @@
 #
 CFLAGS=-Wall -g
 
-all: clean main
+all: main
 
 clean:
 	rm -f main
-	echo hello
